@@ -1,6 +1,5 @@
 require "sinatra"
 require "erb"
-require "pry"
 
 enable :sessions
 use Rack::MethodOverride
